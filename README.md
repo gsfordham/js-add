@@ -34,3 +34,5 @@ Else
       return the number, added to the function called back on the list, starting at the next element
 
 So, hope you enjoy, regardless of why you're looking at it.
+
+EDIT: Oh yes, I love making other languages look like Lisp syntax, if you noticed.
